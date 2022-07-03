@@ -10,4 +10,4 @@
 7. медиазапросы;
 8. grid layout.
 
-Сайт: Warning: https://elssv.github.io/russian-travel/index.html
+Сайт: https://elssv.github.io/russian-travel/index.html
