@@ -1,0 +1,14 @@
+.lead__illustration_image {
+    object-fit: cover;
+    align-items: center;
+    margin: 0;
+    max-width: 984px;
+    width: 100%;
+}
+
+@media screen and (max-width: 768px) {
+    .lead__illustration_image {
+        max-width: 768px;
+        width: 100%;
+    }
+}

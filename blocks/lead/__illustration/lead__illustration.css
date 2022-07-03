@@ -1,0 +1,13 @@
+.lead__illustration {
+    display: flex;
+    flex-direction: column;
+    margin: 0;
+    max-width: 984px;
+    width: 100%;
+}
+
+@media screen and (max-width: 768px) {
+    .lead__illustration {
+        width: 100%;
+    }
+}
