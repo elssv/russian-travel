@@ -1,19 +1,11 @@
 .lead__caption {
-<<<<<<< HEAD
     text-transform: uppercase;
     font-family: 'Inter', Arial, Helvetica, sans-serif;
-=======
-    font-family: 'Inter';
->>>>>>> ac3ca31cfc5da547fa30bffae232d34f1d91c5f0
     font-style: normal;
     font-weight: 400;
     font-size: 10px;
     line-height: 14px;
     letter-spacing: 1.5px;
-<<<<<<< HEAD
-=======
-    text-transform: uppercase;
->>>>>>> ac3ca31cfc5da547fa30bffae232d34f1d91c5f0
     margin: 8px 0 0;
     color: #FFFFFF;
 }

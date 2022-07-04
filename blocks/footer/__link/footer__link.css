@@ -1,9 +1,5 @@
 .footer__link {
-<<<<<<< HEAD
     font-family: 'Inter', Arial, Helvetica, sans-serif;
-=======
-    font-family: 'Inter';
->>>>>>> ac3ca31cfc5da547fa30bffae232d34f1d91c5f0
     font-style: normal;
     font-weight: 400;
     font-size: 16px;
@@ -11,11 +7,7 @@
     color: #FFFFFF;
     text-decoration: none;
     margin: 0;
-<<<<<<< HEAD
     gap: 18px;
-=======
-    padding: 0;
->>>>>>> ac3ca31cfc5da547fa30bffae232d34f1d91c5f0
 }
 
 .footer__link:hover {
@@ -26,10 +18,5 @@
     .footer__link {
         font-size: 24px;
         line-height: 24px;
-<<<<<<< HEAD
-=======
-        margin: 0;
-        padding: 0;
->>>>>>> ac3ca31cfc5da547fa30bffae232d34f1d91c5f0
     }
 }

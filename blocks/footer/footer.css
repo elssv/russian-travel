@@ -1,5 +1,4 @@
 .footer {
-<<<<<<< HEAD
     max-width: 1184px;
     display: flex;
     justify-content: space-between;
@@ -16,41 +15,14 @@
 @media screen and (max-width: 1023px) {
     .footer {
         max-width: 720px;
-=======
-    max-width: 92.5%;
-    display: flex;
-    justify-content: space-between;
-    margin: auto;
-    padding: 92px 48px 24px;
-}
-
-@media screen and (min-width: 1024px) and (max-width: 1279px) {
-    .footer {
-        max-width: 90.63%;
-    }
-}
-
-@media screen and (min-width: 768px) and (max-width: 1023px) {
-    .footer {
-        max-width: 93.75%;
-        padding: 88px 24px 24px;
->>>>>>> ac3ca31cfc5da547fa30bffae232d34f1d91c5f0
     }
 }
 
 @media screen and (max-width: 767px) {
     .footer {
-<<<<<<< HEAD
         max-width: 186px;
         margin-left: 16px;
         margin-top: 64px;
         flex-direction: column;
-=======
-        max-width: 58.13%;
-        margin-left: 16px;
-        margin-top: 64px;
-        flex-direction: column;
-        padding: 64px 0 24px 16px;
->>>>>>> ac3ca31cfc5da547fa30bffae232d34f1d91c5f0
     }
 }

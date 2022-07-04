@@ -6,7 +6,6 @@
   padding: 28px 48px 56px;
 }
 
-<<<<<<< HEAD
 @media screen and (max-width: 1023px) {
   .header {
     max-width: 90.63%;
@@ -15,32 +14,15 @@
 }
 
 @media screen and (max-width: 767px) {
-=======
-@media screen and (max-width: 1024px) {
-  .header {
-    max-width: 90.63%;
-    padding-bottom: 28px 48px 48px;
-  }
-}
-
-@media screen and (max-width: 768px) {
->>>>>>> ac3ca31cfc5da547fa30bffae232d34f1d91c5f0
   .header {
     max-width: 93.75%;
     padding: 28px 24px 48px;
   }
 }
 
-<<<<<<< HEAD
 @media screen and (max-width: 319px) {
   .header {
     max-width: 288px;
     padding: 16px 16px 46px;
-=======
-@media screen and (max-width: 320px) {
-  .header {
-    max-width: 90%;
-    padding-bottom: 16px 16px 46px;
->>>>>>> ac3ca31cfc5da547fa30bffae232d34f1d91c5f0
   }
 }

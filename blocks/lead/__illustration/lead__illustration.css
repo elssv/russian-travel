@@ -1,18 +1,6 @@
 .lead__illustration {
     display: flex;
     flex-direction: column;
-<<<<<<< HEAD
     margin: 0 auto;
     max-width: 984px;
-=======
-    margin: 0;
-    max-width: 984px;
-    width: 100%;
-}
-
-@media screen and (max-width: 768px) {
-    .lead__illustration {
-        width: 100%;
-    }
->>>>>>> ac3ca31cfc5da547fa30bffae232d34f1d91c5f0
 }

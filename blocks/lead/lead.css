@@ -5,7 +5,7 @@
   max-width: 80%;
 }
 
-<<<<<<< HEAD
+
 @media screen and (max-width: 1279px) {
   .lead {
       max-width: 928px;
@@ -19,21 +19,6 @@
 }
 
 @media screen and (max-width: 767px) {
-=======
-@media screen and (max-width: 1024px) {
-  .lead {
-      max-width: 90.63%;
-  }
-}
-
-@media screen and (max-width: 768px) {
-  .lead {
-    max-width: 100%;
-  }
-}
-
-@media screen and (max-width: 320px) {
->>>>>>> ac3ca31cfc5da547fa30bffae232d34f1d91c5f0
   .lead {
     max-width: 100%;
   }

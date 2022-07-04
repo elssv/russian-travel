@@ -6,15 +6,9 @@
     width: 100%;
 }
 
-<<<<<<< HEAD
+
 @media screen and (max-width: 1023px) {
     .lead__illustration_image {
         max-width: 100%;
-=======
-@media screen and (max-width: 768px) {
-    .lead__illustration_image {
-        max-width: 768px;
-        width: 100%;
->>>>>>> ac3ca31cfc5da547fa30bffae232d34f1d91c5f0
     }
 }
