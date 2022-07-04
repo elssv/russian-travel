@@ -1,4 +1,4 @@
-.lead__illustration_image {
+.lead__image {
     object-fit: cover;
     align-items: center;
     margin: 0;
@@ -8,7 +8,7 @@
 
 
 @media screen and (max-width: 1023px) {
-    .lead__illustration_image {
+    .lead__image {
         max-width: 100%;
     }
 }
