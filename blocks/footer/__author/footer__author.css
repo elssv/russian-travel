@@ -1,11 +1,13 @@
 .footer__author {
-    font-family: 'Inter';
+    font-family: 'Inter', Arial, Helvetica, sans-serif;
     font-style: normal;
     font-weight: 400;
     font-size: 14px;
     line-height: 16px;
     color: #FFFFFF;
     text-decoration: none;
+    margin: 0;
+    padding: 0;
 }
 
 @media screen and (max-width: 767px) {

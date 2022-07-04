@@ -6,23 +6,23 @@
   padding: 28px 48px 56px;
 }
 
-@media screen and (max-width: 1024px) {
+@media screen and (max-width: 1023px) {
   .header {
     max-width: 90.63%;
-    padding-bottom: 28px 48px 48px;
+    padding: 28px 48px 48px;
   }
 }
 
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 767px) {
   .header {
     max-width: 93.75%;
     padding: 28px 24px 48px;
   }
 }
 
-@media screen and (max-width: 320px) {
+@media screen and (max-width: 319px) {
   .header {
-    max-width: 90%;
-    padding-bottom: 16px 16px 46px;
+    max-width: 288px;
+    padding: 16px 16px 46px;
   }
 }
