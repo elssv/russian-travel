@@ -2,8 +2,14 @@
     align-self: end;
 }
 
+<<<<<<< HEAD
 @media screen and (max-width: 767px) {
     .place__website {
         padding-left: 16px;
+=======
+@media screen and (max-width: 400px) {
+    .place__website {
+        margin-left: 16px;
+>>>>>>> ac3ca31cfc5da547fa30bffae232d34f1d91c5f0
     }
 }

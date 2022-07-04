@@ -1,4 +1,5 @@
 .cover {
+<<<<<<< HEAD
     display: flex;
     position: relative;
     max-width: 1184px;
@@ -28,3 +29,10 @@
       margin-bottom: 64px;
     }
   }
+=======
+    width: 100%;
+    max-width: 1184px;
+    margin: 0 auto;
+    position: relative;
+}
+>>>>>>> ac3ca31cfc5da547fa30bffae232d34f1d91c5f0

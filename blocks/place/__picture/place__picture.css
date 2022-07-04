@@ -1,5 +1,6 @@
 .place__picture {
     max-width: 100%;
+<<<<<<< HEAD
 }
 
 @media screen and (max-width: 900px) {
@@ -13,4 +14,6 @@
     max-width: 320px;
     max-width: 100%;
   }
+=======
+>>>>>>> ac3ca31cfc5da547fa30bffae232d34f1d91c5f0
 }

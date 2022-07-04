@@ -10,6 +10,7 @@
         url('./fonts/Inter-Bold.woff') format('woff');
     font-family: "Inter";
     font-weight: bold;
+<<<<<<< HEAD
 }
 
 @font-face {
@@ -17,4 +18,6 @@
         url('./fonts/InterBlack.woff') format('woff');
     font-family: "Inter";
     font-weight: bold;
+=======
+>>>>>>> ac3ca31cfc5da547fa30bffae232d34f1d91c5f0
 }

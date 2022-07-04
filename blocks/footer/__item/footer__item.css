@@ -4,4 +4,13 @@
 
 .footer__item:last-of-type {
   margin-right: 0;
+<<<<<<< HEAD
+=======
+}
+
+@media screen and (max-width: 767px) {
+  .footer__item {
+    margin-bottom: 32px;
+  }
+>>>>>>> ac3ca31cfc5da547fa30bffae232d34f1d91c5f0
 }

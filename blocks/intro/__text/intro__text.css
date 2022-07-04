@@ -1,6 +1,10 @@
 .intro__text {
     max-width: 690px;
+<<<<<<< HEAD
     font-family: 'Inter', Arial, Helvetica, sans-serif;
+=======
+    font-family: 'Inter';
+>>>>>>> ac3ca31cfc5da547fa30bffae232d34f1d91c5f0
     font-style: normal;
     font-weight: 400;
     font-size: 16px;
